@@ -73,5 +73,5 @@ print '**BREAK**'
 jacobianIKE(.3, -.2)
 
 #jacobianIKE(.3,.8)
-
+'''
 
